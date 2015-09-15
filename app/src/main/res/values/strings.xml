@@ -2,5 +2,6 @@
     <string name="app_name">My Application</string>
 
     <string name="hello_world">your mom is stupid!</string>
+    <string name="hi_world">yay its tuesday!</string>
     <string name="action_settings">Settings</string>
 </resources>
